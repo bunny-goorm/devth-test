@@ -8,5 +8,5 @@ memory: 2364kb, time: 0second
 
 ### submit date
 
-2025년 05월 28일 12:15:37
+2025년 05월 28일 12:16:00
 
